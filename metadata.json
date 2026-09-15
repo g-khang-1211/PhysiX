@@ -1,0 +1,6 @@
+{
+  "name": "Vật lí 10 - Học tập & Thí nghiệm tương tác",
+  "description": "Ứng dụng học tập và thí nghiệm ảo tương tác Vật lí 10 theo chuẩn chương trình SGK Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
